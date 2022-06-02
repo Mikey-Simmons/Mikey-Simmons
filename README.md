@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on BOTWDB.  
-- 🌱 I’m currently learning The M.E.R.N. Stack.
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on React.js Projects.
 - 🤔 I’m looking for help with Data Structures and Alogorithms. 
 - 💬 Ask me about JavaScript or anything related to web development.
