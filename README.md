@@ -9,7 +9,7 @@
 - 💬 Ask me about JavaScript or anything related to web development.
 - 📫 How to reach me: mikeysimmons425@gmail.com 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have a Dalmatian named Lou.
+- ⚡ Fun fact: I have a Dalmatian named Big Lou.
 
        
 
