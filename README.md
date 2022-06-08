@@ -9,7 +9,7 @@
 - 💬 Ask me about JavaScript, Java, C# Python or anything related to web development.
 - 📫 How to reach me: mikeysimmons425@gmail.com | https://www.linkedin.com/in/michael-a-simmons/
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I have a one year old super spotty and energetic Dalmatian named Lou.
+- ⚡ Fun fact: I have a super spotty and energetic Dalmatian named Lou.
 
        
 
