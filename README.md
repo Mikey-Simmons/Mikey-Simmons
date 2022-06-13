@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on BOTWDB.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Database Management Systems
 - 👯 I’m looking to collaborate on MERN Projects.
 - 🤔 I’m looking for help with Mobile Development! 
 - 💬 Ask me about JavaScript, Java, C# Python or anything related to web development.
