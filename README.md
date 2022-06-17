@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on BOTWDB, an online encylopedia for the game Zelda Breath of the Wild
+- 🔭 I’m currently working on BOTWDB, an online encylopedia for the game Zelda Breath of the Wild.
 - 🌱 I’m currently learning Database Management Systems
 - 👯 I’m looking to collaborate on MERN Projects.
 - 🤔 I’m looking for help with Mobile Development! 
