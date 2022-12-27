@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on several react and react native apps.
+- 🔭 I’m currently working on several ReactJS and React Native apps.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on React Projects.
 - 🤔 I’m looking for help with Mobile Development! 
