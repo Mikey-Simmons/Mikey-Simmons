@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on several ReactJS and React Native apps.
-- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on React Projects.
 - 🤔 I’m looking for help with Mobile Development! 
 - 💬 Ask me about JavaScript, Java, C# Python or anything related to web development.
